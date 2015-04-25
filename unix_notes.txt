@@ -1,2 +1,3 @@
 hidden files begin with a .
 so .git files are hidden by default
+making a change
