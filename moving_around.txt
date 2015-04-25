@@ -1,0 +1,168 @@
+mv moving_around uge_workshop/
+sudo mv moving_around.txt uge_workshop/
+mv moving_around.txt uge_workshop/
+mv moving_around.txt uge_workshop
+mv moving_around.txt ./uge_workshop/
+ls
+rm new_history
+mkdir uge_workshop
+pwd
+less moving_around
+more more moving_around
+subl new_history.txt
+history > new_history
+history
+subl moving_around.txt
+subt moving_around.txt
+more moving_around
+history > moving_around
+history | less
+cd ~
+ls /
+ls ~
+clear
+cd ..
+cd My\ Media
+cd Documents
+ls -l
+cd /Users/katherinedefliese
+cd Users/katherinedefliese
+rm my\ folder
+cd ../
+cd my\ folder
+cd my folder
+mkdir my\ folder
+cd /tmp
+ls -lS
+ls -S
+man ls
+ls -p
+ls -1
+ls -lrt
+ls -rt
+ls -lt
+ls -t
+cd /
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git --global user.name
+git --version
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew info
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+cd Users
+brew help
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ls -G
+git init
+cd codefellows
+git help config
+git config --list
+git config --global user.email
+git config --global user.name
+git config --global user.email "kdefliese@users.noreply.github.com"
+git config --global user.name "Katherine Defliese"
+touch greeting.html
+subl . greeting.html
+subl .
+mkdir codefellows
+ls -ld
+file /Users/katherinedefliese/Documents/[m-v]*
+file /Users/katherinedefliese/Documents/*
+file /Users/katherinedefliese/*
+..
+rm -ri katherinedir
+mr -r katherinedir
+man rm
+rmdir -r katherinedir
+rmdir -ri katherinedir
+rmdir katherinedir
+touch thefile
+cd katherinedir
+mkdir katherinedir/2
+mkdir katherinedir
+rm -r changedname
+rmdir changedname
+touch afile
+touch maxwell
+touch jared
+touch katherine
+cd changedname
+rm jared
+rm ls
+touch jared ls
+rm katherine
+file changedname
+rm example
+cd backups
+rmdir nest
+mv stuff backups/changedname
+mkdir nest
+cd linuxtutorial
+mkdir linuxtutorial/stuff
+mkdir /stuff
+mkdir /other
+mv example backups/
+mkdir linuxtutorial/backups
+l
+cd /Users/katherinedefliese/Documents/linuxtutorial
+cd ../../../
+man file
+file /Users/katherinedefliese/Documents/linuxtutorial/example
+rmdir /Users/katherinedefliese/Documents/linuxtutorial/stuff
+rmdir /Users/katherinedefliese/Documents/linuxtutorial/example
+rmdir ../../../linuxtutorial/example
+rmdir linuxtutorial/example
+cd ../../../linuxtutorial
+rmdir more
+cd stuff
+rmdir stuff
+rmdir example
+rmdir -v example
+touch example
+cd ../../Documents
+cd ../../Documents/linuxtutorial
+cd ../linuxtutorial
+cd /linuxtutorial
+rmdir linuxtutorial/other
+rmdir -v linuxtutorial/other
+mkdir -v linuxtutorial/other
+mkdir -pv linuxtutorial/stuff/more
+cd /Documents
+mkdir -pv linuxtutorial/stuff
+mkdir linuxtutorial
+cd /katherinedefliese
+cd /katherinedefliese$
+cd /Users
+man -k list
+man pwd
+ls -a
+/
+file 'Your blood'
+cd Sticky\ Notes/
+cd Sticky\ Notes
+cd 'Sticky Notes'
+/Documents
+cd /usr/bin
+cd /bin
+cd /var/log
+cd /etc
+cd /home/
+ls -l /etc
+ls /etc
+echo $SHELL
+dscacheutil -flushcache
+dscacheutil -dnsflush
