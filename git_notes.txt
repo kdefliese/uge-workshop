@@ -11,3 +11,5 @@ git branch <name> - create a new branch
 without a name, will tell you the branches you have
 
 git checkout <existing branch name> - change to that branch
+
+git remote -u origin master
