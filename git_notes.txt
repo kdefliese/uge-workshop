@@ -12,4 +12,6 @@ without a name, will tell you the branches you have
 
 git checkout <existing branch name> - change to that branch
 
-git remote -u origin master
+git remote -u origin <branchname> - initial upload
+
+git push -u origin <branchname> - pushing a new branch
