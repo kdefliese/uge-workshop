@@ -1,0 +1,13 @@
+Git notes:
+
+git add - adds file to staging area
+think you have to do this again after you update a file?
+
+git status - check status
+
+git commit - will check changes into the master
+
+git branch <name> - create a new branch
+without a name, will tell you the branches you have
+
+git checkout <existing branch name> - change to that branch
